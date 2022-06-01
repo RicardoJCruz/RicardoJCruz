@@ -15,19 +15,34 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Ricardo Cruz.
 
-3D Freenlancer.
+- 3D Freenlancer.
+- Mexico City, Mexico.
+- Contact: er.ricardocruz@gmail.com
+- Webpage: https://ricardojcruz.github.io/
 
-Tabasco, Mexico.
+<a href="https://www.linkedin.com/in/ricardo-jcruz"><img src="./img/LI-In-Bug.png" width="30" alt="LinkedIn: /ricardo-jcruz"></a>
+<a href="https://www.vimeo.com/ricardojcruz"><img src="./img/vimeo_icon_white_on_blue_rounded.png" width="30" alt="Vimeo: /ricardojcruz"></a>
+<a href="https://cruzricardo.artstation.com"><img src="./img/artstation-logo.png" width="30" alt="ArtStation: /cruzricardo"></a>
+<a href="https://sketchfab.com/cruzricardo"><img src="./img/sketchfab-logo.png" width="30" alt="Sketchfab: /cruzricardo"></a>
 
-Contact: er.ricardocruz@gmail.com
+### Softwares
+Maya, Blender, Substance 3D Painter, Photoshop, After Effects
 
+### Skills
+3D modelling, texturing, image & video editing
 
-<a href="https://www.linkedin.com/in/ricardo-jcruz"><img src="./img/LI-In-Bug.png" width="30" alt="LinkedIn_ricardo-jcruz"></a>
+### Projects
+[Historically Accurate Game Jam 3 - The Hustler Program](https://devexperience.itch.io/hustler-program)
+3D modeller
 
+[The GameDev.tv Game Jam 2022 - Hell Run](https://anigvit.itch.io/hell-run)
+3D generalist and level designer
 
-<a href="https://www.vimeo.com/ricardojcruz"><img src="./img/vimeo_icon_white_on_blue_rounded.png" width="30" alt="Vimeo_ricardojcruz"></a>
+### Education
+Bachelor of Interactive Technologies And Digital Animation at Universidad del Valle de México
 
-<a href="https://cruzricardo.artstation.com"><img src="./img/artstation-logo.png" width="30" alt="ArtStation_cruzricardo"></a>
+Completed Courses
+(2022) Launch X by Innovaccion Virtual - [Backend in Java](https://github.com/RicardoJCruz/hackTheOceanFrontenModel)
 
-
-I have a bachelor's degree in Engineer in Interactive Technologies and Digital Animation.
+## Short Bio
+I started playing videogames at a young age and I fell in love with the shooters and survival horror genres, so I chose a career that would lead me to be part of the video game industry. I 
