@@ -25,24 +25,24 @@ Here are some ideas to get you started:
 <a href="https://cruzricardo.artstation.com"><img src="./img/artstation-logo.png" width="30" alt="ArtStation: /cruzricardo"></a>
 <a href="https://sketchfab.com/cruzricardo"><img src="./img/sketchfab-logo.png" width="30" alt="Sketchfab: /cruzricardo"></a>
 
-### Softwares
-Maya, Blender, Substance 3D Painter, Photoshop, After Effects
+> I'm currently learning programming for videogame development on my own.
 
-### Skills
-3D modelling, texturing, image & video editing
+```javascript
+const Ricardo = {
+  code: ['HTML', 'CSS', 'JavaScript', 'Java', 'Python', 'C'], 
+  tools: ['Node', 'Docker', 'Flask', 'mySQL']
+}
+```
 
 ### Projects
-[Historically Accurate Game Jam 3 - The Hustler Program](https://devexperience.itch.io/hustler-program)
-3D modeller
+Game Jam - [Historically Accurate Game Jam 3 - The Hustler Program](https://devexperience.itch.io/hustler-program)
+| 3D modeller
 
-[The GameDev.tv Game Jam 2022 - Hell Run](https://anigvit.itch.io/hell-run)
-3D generalist and level designer
+Game Jam - [The GameDev.tv Game Jam 2022 - Hell Run](https://anigvit.itch.io/hell-run)
+| 3D generalist and level designer
 
-### Education
-Bachelor of Interactive Technologies And Digital Animation at Universidad del Valle de México
+Hackaton - [Hack The Ocean by Innovaccion Virtual](https://github.com/RicardoJCruz/hackTheOceanFrontenModel)
+| Database design in Docker and deployment in Azure
 
-Completed Courses
-(2022) Launch X by Innovaccion Virtual - [Backend in Java](https://github.com/RicardoJCruz/hackTheOceanFrontenModel)
-
-## Short Bio
-I started playing videogames at a young age and I fell in love with the shooters and survival horror genres, so I chose a career that would lead me to be part of the video game industry. I 
+### Completed Courses
+(2022) Launch X by Innovaccion Virtual - Microsoft
