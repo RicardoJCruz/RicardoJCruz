@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Ricardo Cruz.
 
-- 3D Freenlancer.
+- Bachelor's degree in Interactive Technologies and Digital Animation
+- Freelance 3D Animator
 - Mexico City, Mexico.
 - Contact: er.ricardocruz@gmail.com
 - Webpage: https://ricardojcruz.github.io/
@@ -46,3 +47,6 @@ Hackaton - [Hack The Ocean by Innovaccion Virtual](https://github.com/RicardoJCr
 
 ### Completed Courses
 (2022) Launch X by Innovaccion Virtual - Microsoft
+
+(2022) CS50x by Harvard University
+       Certificate of completion
